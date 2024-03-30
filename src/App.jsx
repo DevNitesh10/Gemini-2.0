@@ -1,7 +1,9 @@
+import Sidebar from "./Components/Sidebar/Sidebar"
+
 const App = () => {
   return (
     <>
-    <h1>Gemini 2.0</h1>
+    <Sidebar />
     </>
     )
 }
